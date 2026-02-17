@@ -1,14 +1,14 @@
-Student Exam Performance Prediction Project
+# Student Exam Performance Prediction
 
-This project predicts student exam marks using ML.
+This predicts student marks using machine learning.
 
-Files:
-- dataset.csv → Data
-- train_model.py → Train model
-- predict.py → Predict marks
-- requirements.txt → Libraries list
+## Screenshot - Folder Structure
+![Folder Structure](Picture1.png)
 
-Steps:
+## Screenshot - Graph/Output
+![Graph](Figure_1.png)
+
+## How to Run
 1. Install requirements
-2. Run train_model.py
-3. Run predict.py
+2. Run `train_model.py`
+3. Run `predict.py`
